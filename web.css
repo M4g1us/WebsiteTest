@@ -4,6 +4,6 @@ font-family: cursive;
 filter: drop-shadow(30mm 10mm 4mm #4444dd);
 }
 
-.Background{
+body {
 background-colour: #212224;
 }
