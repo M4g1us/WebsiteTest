@@ -1,6 +1,6 @@
 .CRT_Monitor{
 font-family: cursive;
-filter: drop-shadow(-5px -5px 1px #21fe25) drop-shadow(-5px -5px 1px #ff0000) drop-shadow(-5px -5px 1px #4444dd);
+text-shadow: -5px -5px 1px #21fe25, -5px -5px 1px #ff0000, -5px -5px 1px #4444dd;
 }
 
 body {
